@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey Everyone 👋, I'm Vivek Jawalkar
+# Hello  Everyone , I'm Vivek Jawalkar
 
 ### AWS & DevOps Engineer
 
@@ -27,16 +27,15 @@
 
 <p>
   <img src="https://img.shields.io/badge/Name-Vivek%20Jawalkar-1f6feb?style=for-the-badge" alt="Name: Vivek Jawalkar" />
-  <img src="https://img.shields.io/badge/Location-India-ff9933?style=for-the-badge" alt="Location: Pune" />
+  <img src="https://img.shields.io/badge/Location-Pune-ff9933?style=for-the-badge" alt="Location: Pune" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Role-DevOps%20Engineer-6f42c1?style=for-the-badge" alt="Role: AWS & DevOps Engineer" />
 </p>
 
-I am an aspiring DevOps Engineer from India with strong hands-on training in cloud computing and automation.
+I am an aspiring **Linux, AWS & DevOps Engineer** with hands-on training in Linux administration, Cloud computing, and DevOps automation. As a fresher, I have worked on practical projects using **AWS, Docker, Jenkins, Git, and Kubernetes**. I am passionate about learning new technologies and looking forward to starting my career in a growth-oriented organization.
 
-Although I am a fresher, I have built practical projects using AWS, Docker, Jenkins, and Kubernetes. I love learning new tools and am ready to start my career contributing to a fast-growing team.
 
 ### Currently Working On
 
@@ -48,24 +47,19 @@ Although I am a fresher, I have built practical projects using AWS, Docker, Jenk
 </p>
 
 - 👨‍💻 Projects: [github.com/Vivekjawalkar](https://github.com/Vivekjawalkar/Vivekjawalkar)
-- 💬 Ask me about **DevOps, AWS, Kubernetes and CI/CD**
+- 💬 Ask me about - **Linux,AWS & DevOps**
 - 📧 Email: [vjawalkar99@gmail.com](mailto:vjawalkar99@gmail.com)
 
 ---
 
 ## `$ ls technologies/`
 
-### Cloud, DevOps and Infrastructure
+### AWS-Cloud, DevOps and Infrastructure
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,git,github,gitlab,linux" alt="Cloud and DevOps technologies" />
 </p>
 
-### Development and Automation
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,mysql,nginx,vscode" alt="Development and automation technologies" />
-</p>
 
 ### DevOps Ecosystem
 
@@ -79,9 +73,9 @@ Although I am a fresher, I have built practical projects using AWS, Docker, Jenk
 ## `$ github --profile-summary`
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Sanika11003?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/last-commit/Sanika11003/Sanika11003?style=for-the-badge&logo=github&label=Profile%20Updated" alt="Profile repository last commit" />
-  <img src="https://komarev.com/ghpvc/?username=Sanika11003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Vivekjawalkar?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/Vivekjawalkar/Vivekjawalkar?style=for-the-badge&logo=github&label=Profile%20Updated" alt="Profile repository last commit" />
+  <img src="https://komarev.com/ghpvc/?username=Vivekjawalkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
