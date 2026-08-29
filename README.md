@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Sanika11003/Sanika11003/main/Devops_Banner.jpg" alt="DevOps GitHub Banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/Sanika11003/Sanika11003/main/devopslogo" alt="DevOps GitHub Banner" />
 </div>
 ---
 
