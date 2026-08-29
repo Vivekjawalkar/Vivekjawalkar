@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/followers/Sanika11003?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 </a>
 <a href="https://www.linkedin.com/in/vivek-jawalkar-5b9039216/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sanika%20Bhosale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Bhosale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <br><br>
 
