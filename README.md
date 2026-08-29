@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hey Everyone 👋, I'm Sanika Bhosale
+# Hey Everyone 👋, I'm Vivek Jawalkar
 
-### DevOps Engineer
+### AWS & DevOps Engineer
 
-<a href="https://github.com/Sanika11003">
+<a href="https://github.com/Vivekjawalkar">
   <img src="https://img.shields.io/github/followers/Sanika11003?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 </a>
-<a href="https://linkedin.com/in/sanika-bhosale-4a13b42a7">
+<a href="https://www.linkedin.com/in/vivek-jawalkar-5b9039216/">
   <img src="https://img.shields.io/badge/LinkedIn-Sanika%20Bhosale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <br><br>
