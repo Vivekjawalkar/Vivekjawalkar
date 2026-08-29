@@ -12,14 +12,14 @@
 </a>
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Sanika11003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Vivekjawalkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Sanika11003/Sanika11003/main/devopslogo" alt="DevOps GitHub Banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/Sanika11003/Sanika11003/main/devopslogo" alt="devopslogo.png" />
 </div>
 ---
 
