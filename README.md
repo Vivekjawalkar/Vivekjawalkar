@@ -19,14 +19,14 @@
 ---
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Sanika11003/Sanika11003/main/devopslogo" alt="devopslogo.png" />
+  <img width="100%" src="https://raw.githubusercontent.com/Vivekjawalkar/Vivekjawalkar/main/devopslogo.png" alt="devopslogo.png" />
 </div>
 ---
 
 ## 👨‍💻 About Me
 
 <p>
-  <img src="https://img.shields.io/badge/Name-Sanika%20Bhosale-1f6feb?style=for-the-badge" alt="Name: Vivek Jawalkar" />
+  <img src="https://img.shields.io/badge/Name-Vivek%20Jawalkar-1f6feb?style=for-the-badge" alt="Name: Vivek Jawalkar" />
   <img src="https://img.shields.io/badge/Location-India-ff9933?style=for-the-badge" alt="Location: Pune" />
 </p>
 
@@ -90,10 +90,10 @@ Although I am a fresher, I have built practical projects using AWS, Docker, Jenk
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vivek-jawalkar-5b9039216/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sanika%20Bhosale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Jawalkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vjawalkar99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sanikabhosale72%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-vjawalkar99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -106,6 +106,6 @@ Although I am a fresher, I have built practical projects using AWS, Docker, Jenk
 Build • Automate • Secure • Scale
 ```
 
-**⭐ Follow [Sanika11003](https://github.com/jaiswaladi246) for practical DevOps projects**
+**⭐ Follow [Vivekjawalkar](https://github.com/jaiswaladi246) for practical DevOps projects**
 
 </div>
